@@ -11,4 +11,8 @@ public class D extends C {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public int ae() {
+        return 8;
+    }
 }

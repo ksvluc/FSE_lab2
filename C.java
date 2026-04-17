@@ -20,6 +20,10 @@ public class C extends null implements A {
         return 222;
     }
 
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
     public void aa() {
         System.out.println("void aa");
     }
@@ -32,11 +36,19 @@ public class C extends null implements A {
         return return getClass().getClassLoader();
     }
 
-    public int[] ii() {
-        return new int[]{0, 1, 2, 3, 4};
-    }
-
     public String kk() {
         return "Hello world";
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
+
+    public double ad() {
+        return 12.12;
     }
 }

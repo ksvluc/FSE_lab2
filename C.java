@@ -19,12 +19,4 @@ public class C implements A {
     public long ac() {
         return 222;
     }
-
-    public void aa() {
-        System.out.println("void aa");
-    }
-
-    public byte oo() {
-        return 2;
-    }
 }

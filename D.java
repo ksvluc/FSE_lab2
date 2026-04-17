@@ -43,4 +43,8 @@ public class D extends C {
     public void bb() {
         System.out.println(42);
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }

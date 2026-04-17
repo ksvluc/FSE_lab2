@@ -7,4 +7,8 @@ public class K extends null {
     public int cc() {
         return 42;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }

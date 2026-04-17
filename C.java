@@ -51,4 +51,8 @@ public class C extends null implements A {
     public double ad() {
         return 12.12;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

@@ -7,4 +7,8 @@ public class A extends null {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public int af() {
+        return -1;
+    }
 }

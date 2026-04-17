@@ -27,4 +27,8 @@ public class C implements A {
     public byte oo() {
         return 2;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

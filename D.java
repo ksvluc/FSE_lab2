@@ -19,4 +19,8 @@ public class D extends C {
     public long dd() {
         return 99999;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

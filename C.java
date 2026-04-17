@@ -1,4 +1,4 @@
-public class C implements A {
+public class C extends null implements A {
 
     private byte a = 1;
 
@@ -30,5 +30,9 @@ public class C implements A {
 
     public Object gg() {
         return return getClass().getClassLoader();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 }

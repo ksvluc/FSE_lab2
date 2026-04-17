@@ -12,15 +12,15 @@ public class D extends C {
         return new int[]{0, 1, 2, 3, 4};
     }
 
+    public String kk() {
+        return "Hello world";
+    }
+
     public int ae() {
         return 8;
     }
 
     public long dd() {
         return 99999;
-    }
-
-    public String kk() {
-        return "Yes";
     }
 }

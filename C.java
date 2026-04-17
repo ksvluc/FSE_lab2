@@ -23,4 +23,8 @@ public class C implements A {
     public void aa() {
         System.out.println("void aa");
     }
+
+    public byte oo() {
+        return 2;
+    }
 }

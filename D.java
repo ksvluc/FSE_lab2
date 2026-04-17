@@ -15,4 +15,8 @@ public class D extends C {
     public int ae() {
         return 8;
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

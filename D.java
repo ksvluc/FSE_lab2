@@ -23,4 +23,8 @@ public class D extends C {
     public String kk() {
         return "Yes";
     }
+
+    public Object rr() {
+        return null;
+    }
 }

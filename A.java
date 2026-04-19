@@ -13,4 +13,5 @@ public class A extends null {
     }
 
     // some code
+    // something
 }

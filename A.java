@@ -11,4 +11,6 @@ public class A extends null {
     public int af() {
         return -1;
     }
+
+    // some code
 }
